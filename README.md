@@ -23,6 +23,6 @@ Hi there! I’m latou-code, a computer science student from South America 🌎. 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?uaername=latou-code&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=latou-code&show_icons=true&theme=radical)
 
 ---
